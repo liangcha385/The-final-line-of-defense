@@ -1,8 +1,8 @@
 <div align=center>
-An archaeological expedition doomed to fail, a man-made disaster that was planned in advance...
+  <p><i>An archaeological expedition doomed to fail, a man-made disaster that was planned in advance...</i></p>
 </div>
 
-# Special Thanks
+### Special Thanks
 [![Jianke-Server.png](https://i.postimg.cc/xCM9vLQk/Jianke-Server.png)](https://cloud.swordsman.com.cn/?i0d425e)
 
 cloud of swordsman | 剑客云
