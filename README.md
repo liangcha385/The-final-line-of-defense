@@ -1,6 +1,8 @@
-# The-final-line-of-defense
-A Minecraft Modpack
+<div align=center>
+An archaeological expedition doomed to fail, a man-made disaster that was planned in advance...
+</div>
 
+# Special Thanks
 [![Jianke-Server.png](https://i.postimg.cc/xCM9vLQk/Jianke-Server.png)](https://cloud.swordsman.com.cn/?i0d425e)
 
 cloud of swordsman | 剑客云
